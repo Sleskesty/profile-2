@@ -1,0 +1,50 @@
+.bar {
+    font-size: 1.5em;
+}
+.home {
+    font-family: 'Franklin Gothic Medium';
+    background-image: url('math-83287-unsplash.jpg');
+    background-size: auto;
+}
+.item {
+    display: flex;  
+    text-align: center;
+    color: rgb(250,250,250);
+    justify-content: center;
+    font-size: 1.5em;
+    flex-wrap:row wrap;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+
+}
+ 
+.item {
+    display: flex;
+    justify-content: center;
+}
+.projects {
+    font-family: 'Franklin Gothic Medium';
+    background-image: url("michael-mroczek-440382-unsplash.jpg")
+}
+.read {
+    text-align: center;
+    color: rgb(250,250,250);
+}
+.round {
+    border-radius: 50%;
+}
+.hobbies {
+    font-family: 'Franklin Gothic Medium';
+    background-image: url("britt-felton-63861-unsplash.jpg") 
+}
+.contact {
+    font-family: 'Franklin Gothic Medium';
+    background-image: url("simon-matzinger-393254-unsplash.jpg")    
+}
+.read2 {
+    color: rgb(20,20,20);
+    text-align: center;
+}
